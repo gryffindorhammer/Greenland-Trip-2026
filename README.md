@@ -5,6 +5,7 @@ Working notes for the Greenland trip in August 2026.
 ## Current Plan
 
 - [Nuuk itinerary, Aug 4-9, 2026](itinerary.md)
+- [Nuuk packing list](packing-list.md)
 - [Planning notes and alternatives](planning-notes.md)
 - [Review page](index.html)
 
