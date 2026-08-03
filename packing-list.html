@@ -8,6 +8,7 @@
     :root { --ink:#17202a; --muted:#5d6975; --line:#d9e2ea; --paper:#f7fbfd; --panel:#fff; --accent:#0d6b78; --accent2:#b64f2a; --soft:#e9f4f6; --warn:#fff5df; }
     * { box-sizing:border-box; }
     body { margin:0; font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color:var(--ink); background:var(--paper); line-height:1.5; }
+    nav { background:var(--accent); display:flex; flex-wrap:wrap; gap:2px; padding:8px 16px; } nav a { color:#fff; text-decoration:none; padding:6px 12px; border-radius:8px; font-size:.9rem; font-weight:650; } nav a:hover { background:#ffffff2b; }
     header { padding:2.5rem 1.25rem 1.75rem; color:#fff; background:linear-gradient(135deg,#0d6b78,#173b4c); }
     header div, main { width:min(1000px,100%); margin:0 auto; }
     h1 { margin:0; font-size:clamp(2rem,5vw,3.25rem); }
@@ -27,7 +28,7 @@
     footer { margin-top:2.5rem; padding-top:1.25rem; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
   </style>
 </head>
-<body>
+<body><nav><a href="index.html">🏠 Home</a><a href="today.html">☀️ Today</a><a href="itinerary.html">📅 Itinerary</a><a href="quick-reference.html">📋 Quick Ref</a><a href="food.html">🍜 Food</a><a href="packing-list.html">✅ Checklist</a><a href="resources.html">🗺️ Maps</a><a href="story.html">✍️ Story</a></nav>
   <header><div><h1>Nuuk Packing Checklist</h1><p>August 4–9: cool, windy, changeable weather; a 3:30 PM icefjord boat tour; and optional hiking. Tap items to check them off.</p></div></header>
   <main>
     <a class="back" href="index.html">← Back to trip plan</a>
