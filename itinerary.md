@@ -27,24 +27,25 @@ Recheck all flight details before booking.
 
 - Fly Newark to Nuuk.
 - Arrive in the evening.
-- Keep arrival logistics simple: check in, easy dinner, short waterfront/harbor walk if timing and weather allow.
+- Check in at **HHE Express Hotel**.
+- Keep arrival logistics simple: easy dinner, short waterfront/harbor walk if timing and weather allow.
 
 ### Wednesday, August 5 - Nuuk City
 
-- National Museum of Greenland.
-- Old harbor and colonial harbor area.
-- Central Nuuk walk, cafes, shops, and waterfront viewpoints.
-- Keep the day flexible to absorb jet lag and weather.
+- Morning/early afternoon: National Museum of Greenland, old harbor and colonial harbor area, and a central Nuuk walk.
+- **3:30 PM: Nuuk Icefjord Boat Tour — confirmed (order #81500).**
+  - Six-hour icefjord/glacier excursion; allow enough time for the operator's check-in instructions.
+  - Meeting point: https://maps.app.goo.gl/PrueQme9V7cSXrzW9
+- Keep the morning flexible to absorb jet lag and weather; plan a simple late dinner after the tour.
 
 Google Maps:
 - National Museum of Greenland: https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Greenland%2C%20Nuuk
 - Colonial Harbor, Nuuk: https://www.google.com/maps/search/?api=1&query=Colonial%20Harbor%2C%20Nuuk
 
-### Thursday, August 6 - Nuuk Fjord Boat Tour
+### Thursday, August 6 - City, Food, and Weather-Flexible Day
 
-- Main excursion day: Nuuk fjord boat tour.
-- Prioritize a reputable boat operator and book early once flights are confirmed.
-- Keep evening open for dinner and recovery.
+- Use for any city sights not covered Wednesday: cafes, shops, waterfront viewpoints, and a relaxed dinner.
+- Keep it flexible for weather and recovery after the boat tour.
 
 Google Maps:
 - Nuuk Fjord: https://www.google.com/maps/search/?api=1&query=Nuuk%20Fjord%2C%20Greenland
@@ -58,11 +59,10 @@ Google Maps:
 Google Maps:
 - Quassussuaq / Lille Malene: https://www.google.com/maps/search/?api=1&query=Quassussuaq%20Lille%20Malene%2C%20Nuuk
 
-### Saturday, August 8 - Weather Buffer / Second Excursion
+### Saturday, August 8 - Weather Buffer / Optional Second Excursion
 
 - Keep this as the built-in buffer day.
-- Use it for the fjord tour if Thursday was canceled.
-- If weather cooperates and Thursday went well, consider another boat trip, a settlement-focused excursion, more city time, or a slow food/waterfront day.
+- If weather cooperates, consider another boat trip, a settlement-focused excursion, more city time, or a slow food/waterfront day.
 
 ### Sunday, August 9 - Fly Home
 
@@ -71,6 +71,7 @@ Google Maps:
 
 ## Practical Notes
 
+- Lodging: HHE Express Hotel, Nuuk.
 - This schedule is four full days in Nuuk, not five: Tuesday is arrival evening and Sunday is departure morning.
 - This is a reasonable long-weekend Greenland sampler, especially if using United travel credit.
 - Book refundable or flexible lodging where possible.
